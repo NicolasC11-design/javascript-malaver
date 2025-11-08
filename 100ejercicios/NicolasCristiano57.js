@@ -1,0 +1,3 @@
+let NicolasCristiano = 57
+let prod = [1,2,3,4].reduce((a,b)=>a*b, NicolasCristiano)
+console.log(prod)
